@@ -1,0 +1,11 @@
+gdc\Categoria.class
+gdc\ResponseCustom.class
+gdc\CompraController.class
+gdc\CompraRepository.class
+gdc\ProductoRepository.class
+gdc\Compra.class
+gdc\Producto.class
+gdc\CategoriaRepository.class
+gdc\Application.class
+gdc\CategoriaController.class
+gdc\ProductoController.class
